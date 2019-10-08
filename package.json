@@ -5,5 +5,9 @@
   "license": "MIT",
   "dependencies": {
     "firebase-admin": "^8.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.11",
+    "typescript": "^3.6.3"
   }
 }
