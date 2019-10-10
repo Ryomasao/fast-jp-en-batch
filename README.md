@@ -3,8 +3,10 @@ FirebaeのCloudFireStoreを使っていて、バッチでデータの登録を�
 
 目的にNode.jsでtypescript環境を作成することも含んでる。
 
-## 参考にした記事
+## 参考にさせていただいた記事
 https://www.meziantou.net/which-version-of-ecmascript-should-i-use-in-the-typescript-configuration.htm
+
+https://qiita.com/madono/items/a134e904e891c5cb1d20
 
 ## 始める
 
@@ -30,7 +32,7 @@ $ yarn tsc --init
 {
   "compilerOptions": {
     // 使うJSのバージョン
-    "target": "ES2019" ,
+    "target": "ES2018" ,
     // コンパイル後jsの形式
     "module": "commonjs",
     // sourceMapを吐く
@@ -49,6 +51,22 @@ $ yarn tsc --init
 ```
 
 
+```
+$ yarn tsc
+```
 
 
+## eslintを入れる
 
+
+```
+$ yarn add --dev eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin
+```
+
+
+いい感じ。
+```
+$ yarn eslint
+```
+
+※ 
