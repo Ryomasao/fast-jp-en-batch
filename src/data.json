@@ -1,25 +1,51 @@
 {
   "doc": [
     {
-      "en": {
-        "sentence": "my first data.",
-        "note": ""
-      },
       "jp": {
-        "sentence": "初めてのデータ",
+        "sentence": "彼はしっぽの短い猫を飼っている。",
         "note": ""
       },
+      "en": {
+        "sentence": "he has a cat which(that) has a small tail.",
+        "note": ""
+      },
+      "category": "関係代名詞・主格(人以外)",
       "uid": "1xtLm7lVQSck1V2xu97ujQsIPPE3"
     },
     {
-      "en": {
-        "sentence": "my seconde data.",
-        "note": ""
-      },
       "jp": {
-        "sentence": "二つ目のデータ",
+        "sentence": "これは3時に出発する電車ですか？",
         "note": ""
       },
+      "en": {
+        "sentence": "is this train which(that) leaves at three o'clock",
+        "note": ""
+      },
+      "category": "関係代名詞・主格(人以外)",
+      "uid": "1xtLm7lVQSck1V2xu97ujQsIPPE3"
+    },
+    {
+      "jp": {
+        "sentence": "あれは僕の父に作られた机です。",
+        "note": ""
+      },
+      "en": {
+        "sentence": "This is a desk which(that) was made by my father.",
+        "note": ""
+      },
+      "category": "関係代名詞・主格(人以外)",
+      "uid": "1xtLm7lVQSck1V2xu97ujQsIPPE3"
+    },
+    {
+      "jp": {
+        "sentence": "その大工さんに建てられた家はとても丈夫です。",
+        "note": ""
+      },
+      "en": {
+        "sentence": "the house which(that) was built by the carpenter is very strong.",
+        "note": ""
+      },
+      "category": "関係代名詞・主格(人以外)",
       "uid": "1xtLm7lVQSck1V2xu97ujQsIPPE3"
     }
   ]
