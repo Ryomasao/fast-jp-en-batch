@@ -7,10 +7,12 @@
     "dev": "ts-node src/index.ts"
   },
   "dependencies": {
-    "firebase-admin": "^8.6.0"
+    "firebase-admin": "^8.6.0",
+    "uuid": "^3.3.3"
   },
   "devDependencies": {
     "@types/node": "^12.7.11",
+    "@types/uuid": "^3.4.5",
     "@typescript-eslint/eslint-plugin": "^2.3.3",
     "@typescript-eslint/parser": "^2.3.3",
     "eslint": "^6.5.1",

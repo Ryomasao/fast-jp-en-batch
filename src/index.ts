@@ -1,5 +1,21 @@
 import admin from 'firebase-admin'
 import data from './data.json'
+import uuid from 'uuid/v1'
+
+// TODO jsonで読み込んだオブジェクトに型をつけたい
+//interface Sentence {
+//  en: {
+//    sentence: string
+//    note: string
+//  }
+//  jp: {
+//    sentence: string
+//    note: string
+//  }
+//  category: string
+//  uid: string
+//  id: string
+//}
 
 const init = (): FirebaseFirestore.Firestore => {
   admin.initializeApp({
@@ -14,7 +30,7 @@ const addDoc = (db: FirebaseFirestore.Firestore): void => {
 
   doc.forEach(sentence => {
     const ref = db.collection('sentences').doc()
-    batch.set(ref, sentence)
+    batch.set(ref, { ...sentence, id: uuid() })
   })
 
   batch
