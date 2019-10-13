@@ -1,0 +1,136 @@
+{
+  "doc": [
+    {
+      "jp": {
+        "sentence": "あれは彼が書いた絵です。",
+        "note": ""
+      },
+      "en": {
+        "sentence": "that is a picture which(that) he painted(draw).",
+        "note": ""
+      },
+      "category": "関係代名詞・目的格(人以外)",
+      "uid": "1xtLm7lVQSck1V2xu97ujQsIPPE3"
+    },
+    {
+      "jp": {
+        "sentence": "あなたは彼女が毎日歌う歌を知っていますか？",
+        "note": ""
+      },
+      "en": {
+        "sentence": "Do you know the song which(that) she sings every day.",
+        "note": ""
+      },
+      "category": "関係代名詞・目的格(人以外)",
+      "uid": "1xtLm7lVQSck1V2xu97ujQsIPPE3"
+    },
+    {
+      "jp": {
+        "sentence": "これらは私がとった写真ではありません。",
+        "note": ""
+      },
+      "en": {
+        "sentence": "These are not the pictures which(that) I took.",
+        "note": ""
+      },
+      "category": "関係代名詞・目的格(人以外)",
+      "uid": "1xtLm7lVQSck1V2xu97ujQsIPPE3"
+    },
+    {
+      "jp": {
+        "sentence": "私が昨夜見た映画はとても面白かった。",
+        "note": ""
+      },
+      "en": {
+        "sentence": "The movie which(that) I saw last night was very interesting.",
+        "note": ""
+      },
+      "category": "関係代名詞・目的格(人以外)",
+      "uid": "1xtLm7lVQSck1V2xu97ujQsIPPE3"
+    },
+    {
+      "jp": {
+        "sentence": "昨日彼女が焼いたクッキー(複数)は美味しかった。",
+        "note": ""
+      },
+      "en": {
+        "sentence": "The cookies which(that) she baked yesterday were delicious.",
+        "note": ""
+      },
+      "category": "関係代名詞・目的格(人以外)",
+      "uid": "1xtLm7lVQSck1V2xu97ujQsIPPE3"
+    },
+    {
+      "jp": {
+        "sentence": "昨日彼女が焼いたクッキー(複数)は美味しかった。",
+        "note": ""
+      },
+      "en": {
+        "sentence": "The cookies which(that) she baked yesterday were delicious.",
+        "note": ""
+      },
+      "category": "関係代名詞・目的格(人以外)",
+      "uid": "1xtLm7lVQSck1V2xu97ujQsIPPE3"
+    },
+    {
+      "jp": {
+        "sentence": "あの外国人が話している言葉はドイツ語ですか？",
+        "note": ""
+      },
+      "en": {
+        "sentence": "Is The language whcih(that) that foreigner is speaking German?",
+        "note": ""
+      },
+      "category": "関係代名詞・目的格(人以外)",
+      "uid": "1xtLm7lVQSck1V2xu97ujQsIPPE3"
+    },
+    {
+      "jp": {
+        "sentence": "彼が書いた物語は多くの人に読まれるでしょう。",
+        "note": ""
+      },
+      "en": {
+        "sentence": "The story which(that) he wrote will be read by many people.",
+        "note": ""
+      },
+      "category": "関係代名詞・目的格(人以外)",
+      "uid": "1xtLm7lVQSck1V2xu97ujQsIPPE3"
+    },
+    {
+      "jp": {
+        "sentence": "ピーターが先月買った中古車は新しく見えますか？",
+        "note": ""
+      },
+      "en": {
+        "sentence": "Dose The used car which(that) Peter bought last month  look new?",
+        "note": ""
+      },
+      "category": "関係代名詞・目的格(人以外)",
+      "uid": "1xtLm7lVQSck1V2xu97ujQsIPPE3"
+    },
+    {
+      "jp": {
+        "sentence": "彼が読みたがっている本は高いのですか？",
+        "note": ""
+      },
+      "en": {
+        "sentence": "Is The book which(that) he wants to read expensive?",
+        "note": ""
+      },
+      "category": "関係代名詞・目的格(人以外)",
+      "uid": "1xtLm7lVQSck1V2xu97ujQsIPPE3"
+    },
+    {
+      "jp": {
+        "sentence": "彼が5年間勉強している言葉は何ですか？",
+        "note": ""
+      },
+      "en": {
+        "sentence": "What is the language which(that) he has been studying for five years?.",
+        "note": ""
+      },
+      "category": "関係代名詞・目的格(人以外)",
+      "uid": "1xtLm7lVQSck1V2xu97ujQsIPPE3"
+    }
+  ]
+}

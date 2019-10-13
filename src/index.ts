@@ -1,5 +1,6 @@
 import admin from 'firebase-admin'
-import data from './data.json'
+import v11 from './11.json'
+import v14 from './14.json'
 import uuid from 'uuid/v1'
 
 // TODO jsonで読み込んだオブジェクトに型をつけたい
@@ -25,10 +26,18 @@ const init = (): FirebaseFirestore.Firestore => {
 }
 
 const addDoc = (db: FirebaseFirestore.Firestore): void => {
-  const { doc } = data
+  const { doc: v11doc } = v11
+  const { doc: v14doc } = v14
+
   const batch = db.batch()
 
-  doc.forEach(sentence => {
+  // TODO fix hardcoding
+  v11doc.forEach(sentence => {
+    const ref = db.collection('sentences').doc()
+    batch.set(ref, { ...sentence, id: uuid() })
+  })
+
+  v14doc.forEach(sentence => {
     const ref = db.collection('sentences').doc()
     batch.set(ref, { ...sentence, id: uuid() })
   })

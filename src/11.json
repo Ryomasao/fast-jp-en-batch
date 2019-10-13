@@ -1,0 +1,124 @@
+{
+  "doc": [
+    {
+      "jp": {
+        "sentence": "彼はしっぽの短い猫を飼っている。",
+        "note": ""
+      },
+      "en": {
+        "sentence": "he has a cat which(that) has a small tail.",
+        "note": ""
+      },
+      "category": "関係代名詞・主格(人以外)",
+      "uid": "1xtLm7lVQSck1V2xu97ujQsIPPE3"
+    },
+    {
+      "jp": {
+        "sentence": "これは3時に出発する電車ですか？",
+        "note": ""
+      },
+      "en": {
+        "sentence": "is this train which(that) leaves at three o'clock",
+        "note": ""
+      },
+      "category": "関係代名詞・主格(人以外)",
+      "uid": "1xtLm7lVQSck1V2xu97ujQsIPPE3"
+    },
+    {
+      "jp": {
+        "sentence": "あれは僕の父に作られた机です。",
+        "note": ""
+      },
+      "en": {
+        "sentence": "This is a desk which(that) was made by my father.",
+        "note": ""
+      },
+      "category": "関係代名詞・主格(人以外)",
+      "uid": "1xtLm7lVQSck1V2xu97ujQsIPPE3"
+    },
+    {
+      "jp": {
+        "sentence": "その大工さんに建てられた家はとても丈夫です。",
+        "note": ""
+      },
+      "en": {
+        "sentence": "the house which(that) was built by the carpenter is very strong.",
+        "note": ""
+      },
+      "category": "関係代名詞・主格(人以外)",
+      "uid": "1xtLm7lVQSck1V2xu97ujQsIPPE3"
+    },
+    {
+      "jp": {
+        "sentence": "うちの庭にやってくる犬はいつもお腹をすかせている。",
+        "note": ""
+      },
+      "en": {
+        "sentence": "the dog which(that) comes to our garden is always hungry.",
+        "note": ""
+      },
+      "category": "関係代名詞・主格(人以外)",
+      "uid": "1xtLm7lVQSck1V2xu97ujQsIPPE3"
+    },
+    {
+      "jp": {
+        "sentence": "駅のそばに建っている建物は何ですか？",
+        "note": ""
+      },
+      "en": {
+        "sentence": "what is the buildng which(that) stands near the station?",
+        "note": ""
+      },
+      "category": "関係代名詞・主格(人以外)",
+      "uid": "1xtLm7lVQSck1V2xu97ujQsIPPE3"
+    },
+    {
+      "jp": {
+        "sentence": "船のように見える雲が見えるかい？",
+        "note": ""
+      },
+      "en": {
+        "sentence": "Can you see the cloud which(that) looks like a ship?",
+        "note": ""
+      },
+      "category": "関係代名詞・主格(人以外)",
+      "uid": "1xtLm7lVQSck1V2xu97ujQsIPPE3"
+    },
+    {
+      "jp": {
+        "sentence": "その作家に書かれた(その)物語は多くの人に読まれるでしょう。",
+        "note": ""
+      },
+      "en": {
+        "sentence": "The story which(that) was written by the writer will be read by many people.",
+        "note": ""
+      },
+      "category": "関係代名詞・主格(人以外)",
+      "uid": "1xtLm7lVQSck1V2xu97ujQsIPPE3"
+    },
+    {
+      "jp": {
+        "sentence": "先週開店したレストランに行こう。",
+        "note": ""
+      },
+      "en": {
+        "sentence": "Let's go the restaurant which(that) opened last week.",
+        "note": "openは自動詞で使えるので be openedにする必要はない"
+      },
+      "category": "関係代名詞・主格(人以外)",
+      "uid": "1xtLm7lVQSck1V2xu97ujQsIPPE3"
+    },
+    {
+      "jp": {
+        "sentence": "子供たちは花でおおわれた丘で遊んだ。",
+        "note": ""
+      },
+      "en": {
+        "sentence": "Children played the hill which(that) was coverd with flowers.",
+        "note": ""
+      },
+      "category": "関係代名詞・主格(人以外)",
+      "uid": "1xtLm7lVQSck1V2xu97ujQsIPPE3"
+    }
+  ]
+}
